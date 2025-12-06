@@ -1,0 +1,6 @@
+# Secrets (real file contains sensitive data)
+.secrets.json
+
+# Python
+__pycache__/
+*.pyc
